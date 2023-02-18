@@ -3,7 +3,6 @@ HOST,emby.enjoyit.eu.org,Emby
 HOST,sg.sgp-01.emby.cyou,Emby
 HOST,us.sfo-01.emby.cyou,Emby
 HOST,us.nyc-01.emby.cyou,Emby
-
 HOST-SUFFIX,emby.jiesen.life,Emby
 HOST-SUFFIX,jiesen.life:8443/ombi,Emby
 HOST-SUFFIX,agahk1.jmsooo.com,Emby
@@ -40,7 +39,6 @@ HOST-SUFFIX,ntt1.jmsooo.com,Emby
 HOST-SUFFIX,plusmedia.site,Emby
 HOST-SUFFIX,pornemby.club,Emby
 HOST-SUFFIX,servers.xeton.dev,Emby
-
 HOST-KEYWORD,emby.wtf,Emby
 HOST-KEYWORD,jmsooo,Emby
 HOST-KEYWORD,odysseyplus,Emby
