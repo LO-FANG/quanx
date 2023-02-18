@@ -4,7 +4,7 @@ HOST,sg.sgp-01.emby.cyou,Emby
 HOST,us.sfo-01.emby.cyou,Emby
 HOST,us.nyc-01.emby.cyou,Emby
 HOST-SUFFIX,emby.jiesen.life,Emby
-HOST-SUFFIX,jiesen.life:8443/ombi,Emby
+HOST-SUFFIX,jiesen.life,Emby
 HOST-SUFFIX,agahk1.jmsooo.com,Emby
 HOST-SUFFIX,agajp1.jmsooo.com,Emby
 HOST-SUFFIX,agasg1.jmsooo.com,Emby
