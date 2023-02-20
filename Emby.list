@@ -1,3 +1,4 @@
+HOST-KEYWORD,emby,Emby
 
 HOST,emby.enjoyit.eu.org,Emby
 HOST,sg.sgp-01.emby.cyou,Emby
@@ -28,8 +29,6 @@ HOST-SUFFIX,servers.xeton.dev,Emby
 HOST-SUFFIX,emby,Emby
 
 HOST-KEYWORD,emby.wtf,Emby
-
-HOST-KEYWORD,emby,Emby
 
 HOST-KEYWORD,jmsooo,Emby
 HOST-KEYWORD,odysseyplus,Emby
