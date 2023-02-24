@@ -5,7 +5,7 @@ HOST,1.4545.cf,Emby
 HOST,ys.11234.ga,Emby
 HOST,sana.emby.eu.org,Emby
 
-HOST-SUFFIX.cf.gtlx.org,Emby
+HOST-SUFFIX,cf.gtlx.org,Emby
 HOST-SUFFIX,singularity.deja-vu.beauty,Emby
 HOST-SUFFIX,media.nijigem.by,Emby
 HOST-SUFFIX,cf3.misakaf.org
