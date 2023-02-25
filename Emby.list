@@ -4,20 +4,13 @@ HOST,us.nyc-01.emby.cyou,Emby
 HOST,1.4545.cf,Emby
 HOST,ys.11234.ga,Emby
 HOST,sana.emby.eu.org,Emby
+HOST,129.151.148.116,Emby
 
 HOST-SUFFIX,cf.gtlx.org,Emby
-HOST-SUFFIX,singularity.deja-vu.beauty,Emby
 HOST-SUFFIX,media.nijigem.by,Emby
 HOST-SUFFIX,cf3.misakaf.org
 HOST-SUFFIX,cdn.misakaf.org,Emby
-HOST-SUFFIX,bd1.slyk.net,Emby
-
-
-HOST-SUFFIX,jellyfin.xeton.dev,Emby
-HOST-SUFFIX,movie.xeton.dev,Emby
-HOST-SUFFIX,plusmedia.site,Emby
-HOST-SUFFIX,servers.xeton.dev,Emby
-
+HOST-SUFFIX,cc.semby.ink,Emby
 
 HOST-KEYWORD,emby,Emby
 HOST-SUFFIX,emby,Emby
